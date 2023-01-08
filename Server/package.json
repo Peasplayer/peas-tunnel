@@ -1,0 +1,8 @@
+{
+  "name": "peas-tunnel-server",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.18.2",
+    "peasplayer-tcp-local-tunnel": "^1.0.8"
+  }
+}

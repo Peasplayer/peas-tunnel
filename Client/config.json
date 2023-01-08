@@ -1,0 +1,7 @@
+{
+  "ip": "localhost",
+  "useHttps": false,
+  "setupPort": 3000,
+  "connectionAttempts": 10,
+  "ports": 1
+}

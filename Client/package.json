@@ -1,0 +1,14 @@
+{
+  "name": "peas-tunnel-client",
+  "version": "1.0.0",
+  "bin": "index.js",
+  "pkg": {
+    "assets": [
+      "node_modules/**/*"
+    ]
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.7",
+    "peasplayer-tcp-local-tunnel": "^1.0.7"
+  }
+}
